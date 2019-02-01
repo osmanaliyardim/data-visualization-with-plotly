@@ -4,7 +4,7 @@ Created on Mon Jan 21 13:54:09 2019
 
 @author: Osman Ali Yardım
 
-University World Ranking with Plotly: Scatter Chart
+University World Ranking with Plotly: Scatter Plot
 """
 
 import pandas as pd
