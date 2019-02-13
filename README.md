@@ -1,6 +1,6 @@
 # Data Visualization Work
 
-Visualization of <b>University World Rankings</b> and <b>World War 2 Bombings</b> data (Kaggle Platform Work)
+Visualization of <b>University World Rankings</b>, <b>World War 2 Bombings</b> and <b>Significant Earthquakes</b> data
 
 <b>Plot Types:</b>
 <ul>
@@ -15,3 +15,4 @@ Visualization of <b>University World Rankings</b> and <b>World War 2 Bombings</b
 <li><a href="https://github.com/osmanaliyardim/data-visualization-with-plotly/blob/master/UniversityWorldRankingWithSCATTERPLOTMATRIX.py">Scatter Plot Matrix</a></li>
 <li><a href="https://github.com/osmanaliyardim/data-visualization-with-plotly/blob/master/UniversityWorldRankingWithWORDCLOUD.py">Word Cloud</a></li>
 <li><a href="https://github.com/osmanaliyardim/data-visualization-with-plotly/blob/master/WW2%20-%20MapPlot.py">Map Plot (WW2)</a></li>
+<li><a href="https://github.com/osmanaliyardim/data-visualization-with-plotly/blob/master/EarthquakesANIMATIONPLOT.py">Animation Plot (Earthquakes)</a></li>
